@@ -27,6 +27,7 @@ A CSV file containing the list of images to be analyzed with the following colum
 | --- | --- | --- | --- |
 | **Tangent Calculation Range** | `self.range` | Length of reference line segment used for tangent line calculation(image2)| Individual Setting |
 | **Tile Size** | `self.span` | Size of square tiles for image subdivision (pixels)(image1) | Individual Setting |
+
 image1: Calculation Method
 ![Image Span Illustration](README/img/span.png)
 
@@ -39,6 +40,7 @@ image1: Calculation Method
 | **Maximum Vessel Length** | `self.max_length_percentage` | Maximum vessel length as percentage of image width | Filtering |
 | **Width Ratio Tolerance** | `self.distance_ratio` | Maximum allowable ratio between left and right side widths(image2) | Filtering |
 | **Diameter Variance Threshold** | `self.variance_threshold` | Maximum allowable variance in vessel diameter (variability rate) | Filtering |
+
 image2: Inappropriate Width Ratio Example
 ![Inappropriate Width Ratio Example](README/img/inappropreate_ratio.png)
 
