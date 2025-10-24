@@ -1,0 +1,8 @@
+raw_sample_path,condition,magnification
+input/sample_img/01 Control/W 20x.tif,control,0.56
+input/sample_img/01 Control/W1 20x.tif,control,0.56
+input/sample_img/01 Control/W4 20x.tif,control,0.56
+input/sample_img/01 Control/W10 20x.tif,control,0.56
+input/sample_img/01 Control/W11 20x.tif,control,0.56
+input/sample_img/01 Control/W12 20x.tif,control,0.56
+input/sample_img/01 Control/W13 20x.tif,control,0.56
