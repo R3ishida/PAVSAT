@@ -29,7 +29,7 @@ A CSV file containing the list of images to be analyzed with the following colum
 | **Tile Size** | `self.span` | Size of square tiles for image subdivision (pixels)(image1) | Individual Setting |
 
 image1: Calculation Method
-![Image Span Illustration](README/img/span.png)
+<img src="README/img/span.png" alt="Image Span Illustration" width="50%">
 
 
 ### Filtering Parameters (Quality Control)
@@ -42,7 +42,7 @@ image1: Calculation Method
 | **Diameter Variance Threshold** | `self.variance_threshold` | Maximum allowable variance in vessel diameter (variability rate) | Filtering |
 
 image2: Inappropriate Width Ratio Example
-![Inappropriate Width Ratio Example](README/img/inappropreate_ratio.png)
+<img src="README/img/inappropreate_ratio.png" alt="Inappropriate Width Ratio Example" width="50%">
 
 ### General Settings
 
